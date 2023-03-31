@@ -1,0 +1,65 @@
+.borde{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    float:left;
+}
+.body{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(255, 235, 60);
+    float:left;
+}
+.wings{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(232, 234, 246);
+    float:left;
+}
+.crown{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(254, 196, 0);
+    float:left;
+}
+.crownshadow{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(255, 169, 2);
+    float:left;
+}
+.wingshadow{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(176, 191,197);
+    float:left;
+}
+.floor{
+    width: 20px;
+    height:20px;
+    background-color:rgb(233, 0, 100);
+    float:left;
+}
+.fondo{
+    width: 20px;
+    height: 20px;
+    background-color: skyblue;
+    float:left;
+}
+.bodyshadow{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(250, 192, 46);
+    float:left;
+}
+.cheeks{
+    width: 20px;
+    height: 20px;
+    background-color:rgb(255, 95, 158);
+    float: left;
+}
+/*limite*/
+.limite{
+    width: 20px;
+    height: 20px
+}
